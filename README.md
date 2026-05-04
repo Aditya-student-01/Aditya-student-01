@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'm Aditya Kumar from EAST CHAMPARAN , BIHAR.<br>Now I'm currently pursing MCA in AI & ML  from Chandigarh University.
+I'm Aditya Kumar from EAST CHAMPARAN , BIHAR.<br>Now I'm currently pursing MCA in AI & ML  from Chandigarh University.<br> 
 I'm a developer with a keen interest in AI.<br> I love tackling complex problems,<br> learning new technologies, and collaborating with other developers.
 
 🔭 Currently working on AI $ ML<br> 
-🌱 Learning AI<br> ]
+🌱 Learning AI<br> 
 💡 Interested in AI & ML<br> 
 📫 How to reach me:yourajpandit845411@gmail.com<br> 
 💻 Tech Stack
